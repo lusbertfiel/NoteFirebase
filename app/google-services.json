@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1077833837997",
+    "project_id": "crudfirebase-ca604",
+    "storage_bucket": "crudfirebase-ca604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077833837997:android:3bc65311e3faf76f7d0524",
+        "android_client_info": {
+          "package_name": "com.fiel.crudfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmaZ3kKenpGV_f5HcFAa2ZArp87ZhcoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077833837997:android:1f2f7aa22f9970907d0524",
+        "android_client_info": {
+          "package_name": "com.fiel.noteappfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmaZ3kKenpGV_f5HcFAa2ZArp87ZhcoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077833837997:android:de4c614172069bae7d0524",
+        "android_client_info": {
+          "package_name": "com.fiel.notefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmaZ3kKenpGV_f5HcFAa2ZArp87ZhcoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
